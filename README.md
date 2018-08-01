@@ -6,8 +6,9 @@ my facebook page:https:/www.facebook.com/KING231MONTSER
 
 اعطي الصلاحيات للسكربت عبر هذا الامر chmod +x auto
 
-وبعدين افتحه عن طريق الامر ./auto 
+وبعدين افتحه عن طريق الامر ./auto
 
+ملاحظه لاتقلوا في تشفير البايلود فهو اصلا مشفر 
  
 
 
@@ -18,5 +19,5 @@ first you need to install metasploit on your system
 
 and then just the script ./auto
 
-
+and  dont warry about to ecnode the payload its already encrypt 
  
